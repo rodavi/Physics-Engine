@@ -8,6 +8,7 @@ class Particle
         int _point_id;
 
     public:
+        Particle();
         Particle(int point_id);
         Particle(const Particle& p);  // Copy Constructor
         ~Particle();

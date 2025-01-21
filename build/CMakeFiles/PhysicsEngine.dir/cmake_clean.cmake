@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/PhysicsEngine.dir/src/main.cpp.o"
   "CMakeFiles/PhysicsEngine.dir/src/main.cpp.o.d"
+  "CMakeFiles/PhysicsEngine.dir/src/particle.cpp.o"
+  "CMakeFiles/PhysicsEngine.dir/src/particle.cpp.o.d"
   "PhysicsEngine"
   "PhysicsEngine.pdb"
 )

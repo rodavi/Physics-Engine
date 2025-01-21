@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I"/home/rodrigo/Documents/C++/Physics Engine/Physics-Engine/."
 
 CXX_FLAGS = 
 
