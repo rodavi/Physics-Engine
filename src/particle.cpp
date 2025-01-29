@@ -1,6 +1,6 @@
 #include "include/particle.hpp"
 #include "algorithm"
-
+/*
 Particle::Particle(int point_id)
 : _point_id{point_id}
 {
@@ -74,3 +74,4 @@ float Particle::getPosition(int x)
 {
     return pos[x];
 }
+*/

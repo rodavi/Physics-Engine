@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/10_C++/03_Projects/05_PhysicsEngine/Physics-Engine/build",
+  "command": "E:\\mingw32\\bin\\g++.exe  @CMakeFiles/PhysicsEngine.dir/includes_CXX.rsp -g -o CMakeFiles\\PhysicsEngine.dir\\src\\main.cpp.obj -c E:\\10_C++\\03_Projects\\05_PhysicsEngine\\Physics-Engine\\src\\main.cpp",
+  "file": "E:/10_C++/03_Projects/05_PhysicsEngine/Physics-Engine/src/main.cpp"
+},
+{
+  "directory": "E:/10_C++/03_Projects/05_PhysicsEngine/Physics-Engine/build",
+  "command": "E:\\mingw32\\bin\\g++.exe  @CMakeFiles/PhysicsEngine.dir/includes_CXX.rsp -g -o CMakeFiles\\PhysicsEngine.dir\\src\\particle.cpp.obj -c E:\\10_C++\\03_Projects\\05_PhysicsEngine\\Physics-Engine\\src\\particle.cpp",
+  "file": "E:/10_C++/03_Projects/05_PhysicsEngine/Physics-Engine/src/particle.cpp"
+}
+]

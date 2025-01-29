@@ -1,16 +1,14 @@
 #include <iostream>
-#include "include/particle.hpp"
+#include "include/point_mass.hpp"
 
 int main()
 {
     std::cout<<"Hello physics engine!\n";
 
-    Particle p1(1);
-    p1.setPosition(0, 1.1);
-    p1.setPosition(1, 3.1);
-
-    Particle p2{p1};
-
-    std::cout<<p2.getPosition(0);
+    PointMass p1;
+    p1.mass = 10;
+    p1.position.x = 0;
+    p1.position.y = 0;
+    
     return 0;
 }
