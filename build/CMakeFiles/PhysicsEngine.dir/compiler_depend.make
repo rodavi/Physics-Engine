@@ -147,7 +147,8 @@ CMakeFiles/PhysicsEngine.dir/src/main.cpp.obj: ../src/main.cpp \
   E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_uninitialized.h \
   E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_vector.h \
   E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_bvector.h \
-  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/vector.tcc
+  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/vector.tcc \
+  ../include/ordinary_solver.hpp
 
 CMakeFiles/PhysicsEngine.dir/src/particle.cpp.obj: ../src/particle.cpp \
   ../include/particle.hpp \
@@ -523,6 +524,8 @@ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_vector.h:
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_bvector.h:
 
 E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/vector.tcc:
+
+../include/ordinary_solver.hpp:
 
 ../src/particle.cpp:
 
